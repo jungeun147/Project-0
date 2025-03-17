@@ -1,3 +1,6 @@
 My first commit
+<<<<<<< HEAD
 Second Commit
 Third Commit
+=======
+>>>>>>> master
